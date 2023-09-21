@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Abel Osaretin, and I am a Blockchain, SmartContract Developer.
 <!--
 **AbelOsaretin/AbelOsaretin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

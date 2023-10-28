@@ -1,5 +1,11 @@
 ### Hi there 👋
 My name is Abel Osaretin, and I am a Blockchain, SmartContract Developer.
+
+📫 How to reach me:
+
+Twitter: <https://twitter.com/AbelOsaretin1>
+Whatsapp: <https://wa.me/qr/5SSYL7Y6AINHG1>
+Instagram: <https://instagram.com/abelosaretin>
 <!--
 **AbelOsaretin/AbelOsaretin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

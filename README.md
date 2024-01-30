@@ -3,6 +3,8 @@ My name is Abel Osaretin, and I am a Blockchain, SmartContract Developer.
 
 **📫How to reach me:**
 
+LinkedIn: <https://www.linkedin.com/in/abelosaretin>
+/
 Twitter: <https://twitter.com/AbelOsaretin1>\
 \
 Whatsapp: <https://wa.me/qr/5SSYL7Y6AINHG1>\
